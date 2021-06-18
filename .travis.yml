@@ -1,6 +1,5 @@
 language: python
 python:
-        - "3.9"
+  - "3.9"
 script:
-        - python -m dev
-
+  - python -m dev
